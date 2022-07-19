@@ -1,7 +1,7 @@
 {
   "localizedName": "Turkish (TR)",
   "pluginVersion": "2.1.3",
-  "authors": "ertankanur",
+  "authors": "drackles",
   "generalNotAuthenticated": "Kayıt olmadınız veya zaten giris yaptınız!",
   "generalNotLoggedIn": "Zaten giris yapmıssınız!",
   "generalPasswordLength": "Sifre %min%-%max% karakter arasında olmalıdır!",
